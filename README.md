@@ -5,7 +5,7 @@
 ## <h3>Sobre mim: :alien:</h3> 
 - Estudante de Ciência da Computação do Instituto Federal Catarinense
 - Designer Gráfico
-- Atualmente estou trabalhando com WebDesign
+- Atualmente estou trabalhando com WebDesign e Analista QA
 
 ####
 
